@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 using System.IO.Compression;
 
-namespace PersolusDb.Helper
+namespace AlpDb.Helper
 {
     public static class ZipConverter
     {
