@@ -1,5 +1,7 @@
 # EntityZipConverter
 
+Net Entity binary fields zip converter
+
 Use
 
 ```
