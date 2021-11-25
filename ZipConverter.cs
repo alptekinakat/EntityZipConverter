@@ -47,7 +47,7 @@ namespace AlpDb.Helper
             }
         }
 
-        public static ValueConverter<byte[], byte[]> ZipliAlan = new ValueConverter<byte[], byte[]>(
+        public static ValueConverter<byte[], byte[]> ZipConvert = new ValueConverter<byte[], byte[]>(
            v => Compress(v),
            v => Decompress(v));
     }
